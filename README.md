@@ -1,8 +1,8 @@
 # grab-mysql-schema
 Script dumps users, privileges and databases to sql format
 simple output 
-```
 [root@hola grab-mysql-schema]# ./schema.py 
+```
 Please enter root password for MySQL:
 CREATE DATABASE IF NOT EXISTS `bitrix` CHARACTER SET = 'utf8' COLLATE = 'utf8_unicode_ci';
 CREATE DATABASE IF NOT EXISTS `database1` CHARACTER SET = 'utf8' COLLATE = 'utf8_unicode_ci';
