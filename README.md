@@ -1,6 +1,8 @@
 # grab-mysql-schema
 Script dumps users, privileges and databases to sql format
-simple output 
+
+simple output
+
 [root@hola grab-mysql-schema]# ./schema.py 
 ```
 Please enter root password for MySQL:
